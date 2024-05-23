@@ -1,1 +1,1 @@
-alert("from branch1")
+alert("from branch1 big conflict")
