@@ -1,1 +1,1 @@
-alert("from branch1 update conflict")
+alert("from branch1 update big conflict")
